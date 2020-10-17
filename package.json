@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "tarikeshaq",
+  "version": "1.0.0",
+  "description": "A project running a simple cloudflare worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Tarik <tarikesh@student.ubc.ca>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
